@@ -1,4 +1,4 @@
-# 🩺 Heart Disease Prediction using Machine Learning
+# 🩺 Clinical Risk Classification System using Machine Learning
 
 This project aims to predict the likelihood of heart disease based on key health indicators such as age, cholesterol level, blood pressure, and other medical attributes.  
 The goal is to assist in early diagnosis and prevention by applying machine learning techniques to analyze patient data.
@@ -13,7 +13,7 @@ This project uses supervised learning algorithms to analyze patient data and pre
 ---
 
 ## 🌐 Live Demo
-🚀 **Try it here:** [Heart Disease Prediction App](https://heart-disease-prediction-0.streamlit.app/) 
+🚀 **Try it here:** [Clinical Risk Classification System App](https://heart-disease-prediction-0.streamlit.app/) 
 
 ---
 
